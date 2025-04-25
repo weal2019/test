@@ -1,2 +1,0 @@
-var d = '2025-04-25 04:48:06';
-// Add your Khan Academy JavaScript here
